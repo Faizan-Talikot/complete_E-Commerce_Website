@@ -81,14 +81,14 @@ if (carts != null) {
     if (MainImgs.src == "https://faizan-talikot.github.io/complete_E-Commerce_Website/img/products/f1.jpg") {
       cartNumbers(products[0]);
       totalCost(products[0]);
-    } else if (MainImgs.src == "http://127.0.0.1:5500/img/products/f2.jpg") {
+    } else if (MainImgs.src == "https://faizan-talikot.github.io/complete_E-Commerce_Website/img/products/f2.jpg") {
       // MainImgs.src = smallimg[1].src;
       cartNumbers(products[1]);
       totalCost(products[1]);
-    } else if (MainImgs.src == "http://127.0.0.1:5500/img/products/f3.jpg") {
+    } else if (MainImgs.src == "https://faizan-talikot.github.io/complete_E-Commerce_Website/img/products/f3.jpg") {
       cartNumbers(products[2]);
       totalCost(products[2]);
-    } else if (MainImgs.src == "http://127.0.0.1:5500/img/products/f4.jpg") {
+    } else if (MainImgs.src == "https://faizan-talikot.github.io/complete_E-Commerce_Website/img/products/f4.jpg") {
       cartNumbers(products[3]);
       totalCost(products[3]);
     }
