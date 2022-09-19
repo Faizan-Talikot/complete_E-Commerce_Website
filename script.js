@@ -78,7 +78,7 @@ let MainImgs = document.getElementById("MainImg");
 if (carts != null) {
   carts.addEventListener("click", () => {
     // cartNumbers(products[1]);
-    if (MainImgs.src == "http://127.0.0.1:5500/img/products/f1.jpg") {
+    if (MainImgs.src == "https://faizan-talikot.github.io/complete_E-Commerce_Website/img/products/f1.jpg") {
       cartNumbers(products[0]);
       totalCost(products[0]);
     } else if (MainImgs.src == "http://127.0.0.1:5500/img/products/f2.jpg") {
